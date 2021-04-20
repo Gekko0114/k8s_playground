@@ -1,0 +1,1 @@
+https://kubectl.docs.kubernetes.io/guides/example/inline_patch/
